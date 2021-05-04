@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to be a perfect guy 😜
 - 💞️ I’m looking devs for my minecraft network. 🔎
 
-[![Frosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frosty-cmd)](https://github.com/anuraghazra/github-readme-stats)
+[![Frosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frosty-cmd&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
