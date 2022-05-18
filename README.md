@@ -2,13 +2,8 @@
 
 Hi! I'm Dani... 
 
-Currently I'm working at [@VulcanoDevelopment](https://github.com/VulcanoDevelopment) as my Job.
+Currently I'm working at myself.
 If you are interesed, or wanna talk with me: **dänį ✞#9072**
-
-Now I'm working in **VulcanoHub** a Powerful Minecraft Hub Plugin. 🌋
-
-If you are checking my orgs, yeah sucks obviusly skipping Vulcano Development and Pear Network :D! Yeah **Atom Client**
-
 
 <p align="left">
 <a href="https://github.com/Dani-error">
