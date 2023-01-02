@@ -1,44 +1,86 @@
 <h1 align="center">Hi there 👋, I'm Dani</h1>
-<h3 align="center">Full-Stack developer from Spain</h3>
+<h3 align="center">Full-Stack developer from Tenerife</h3>
 
-- 🔭 I’m currently working on [@PandaCommunity](https://github.com/Panda-Community/)
+I am a motivated and skilled software developer with experience in a variety of programming languages and tools I have a strong foundation in computer science and am constantly looking to learn and improve my skills.
 
-- 🌱 I’m currently learning **C++**
+I know some languages as Java, JavaScript, and C#. I also have experience with HTML, React, and Electron for building user interfaces.
 
+I am proficient in using databases such as Redis, MongoDB, and MySQL. I also have experience with popular tools such as Visual Studio Code, IntelliJ IDEA, the terminal, and Git for version control.
 
-- 📫 How to reach me **Discord: dänį ✞#9072** or at **Twitter: [@Dani ツ](https://www.twitter.com/@_xDani_)**
+📫 How to reach me **Discord: dänį ✞#9072** or at **Twitter: [@Dani](https://www.twitter.com/@_xDani_)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/> 
   </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
   </a>
   
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20SHARP-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> 
+    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> 
   </a> 
   
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/REACT-blue?&style=for-the-badge&logo=react&logoColor=white" alt="react"/> 
+  </a> 
+  
+  <a href="https://electronjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ELECTRON-blue?style=for-the-badge&logo=electron&logoColor=white" alt="electron"/> 
+  </a> 
+  
+  <a href="https://redis.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/REDIS-red?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> 
+  </a> 
+  
+  <a href="https://mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MONGODB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
+  </a> 
+  
+  <a href="https://mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
   </a>
   
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
+  <a href="https://code.visualstudio.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-blue?style=for-the-badge&logo=visualstudiocode" alt="vscode"/> 
+  </a> 
   
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-blueviolet?style=for-the-badge&logo=intellijidea" alt="intellijidea"/> 
   </a> 
   
-  And a lot more...
+  <img src="https://img.shields.io/badge/TERMINAL-black?style=for-the-badge&logo=windowsterminal" alt="terminal"/> 
+  
+  <a href="https://git-scm.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
+  </a> 
+  
+  <span>I know some more things, but I think that are the most I know</span>
 
 </p>
 
-<a> 
-    <img src="https://discord.c99.nl/widget/theme-5/464758523184676875.png" />
-  </a>
+<p align="center">
+    <a href="https://discord.com/users/464758523184676875" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/464758523184676875?&animated=true&borderRadius=30px&idleMessage=Doing nothing..." alt="Discord Presence" align="center">
+    </a>
+</p>
+
+<details>
+  <summary>Stats:</summary>
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Dani-error&style=flat-square" alt="Dani-error's GitHub Views">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dani-error&show_icons=true&theme=transparent" alt="Dani-error's GitHub stats" >
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani-error&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Dani-error's most used languages" />
+  </p>
+</details>
