@@ -65,14 +65,6 @@ I am proficient in using databases such as Redis, MongoDB, and MySQL. I also hav
     <img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
   </a> 
   
-  <span>I know some more things, but I think that are the most I know</span>
-
-</p>
-
-<p align="center">
-    <a href="https://discord.com/users/464758523184676875" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/464758523184676875?&animated=true&borderRadius=30px&idleMessage=Doing nothing..." alt="Discord Presence" align="center">
-    </a>
 </p>
 
 <details>
