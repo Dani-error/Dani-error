@@ -3,16 +3,20 @@
 
 I am a motivated and skilled software developer with experience in a variety of programming languages and tools I have a strong foundation in computer science and am constantly looking to learn and improve my skills.
 
-I know some languages as Java, JavaScript, and C#. I also have experience with HTML, React, and Electron for building user interfaces.
+I know some languages as Java, JavaScript, C# and Kotlin. I also have experience with HTML, React, and Electron for building user interfaces.
 
 I am proficient in using databases such as Redis, MongoDB, and MySQL. I also have experience with popular tools such as Visual Studio Code, IntelliJ IDEA, the terminal, and Git for version control.
 
-📫 How to reach me **Discord: dänį ✞#9072** or at **Twitter: [@Dani](https://www.twitter.com/@_xDani_)**
+📫 How to reach me **Discord: dani.error** or at **Twitter: [@Dani](https://www.twitter.com/@_xDani_)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/> 
+  </a> 
+
+  <a href="http://kotlinlang.org" target="_blank">
+    <img src="https://img.shields.io/badge/KOTLIN-red?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> 
   </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
